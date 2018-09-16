@@ -1,0 +1,10 @@
+html{
+    text-align: center;
+    border: 1px solid rgba(0, 0, 0, 0.384);
+    border-radius: 10px;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.384);
+    border-bottom: 2px solid rgba(0, 0, 0, 0.384);
+}
